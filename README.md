@@ -1,4 +1,4 @@
-Heya, welcome to my GitHub profile! I'm SpiTfire, or Lexi, a programmer from Canada who drinks way too much tea and enjoys learning new computer-related things!
+## Heya, welcome to my GitHub profile! I'm SpiTfire, or Lexi, a programmer from Canada who drinks way too much tea and enjoys learning new computer-related things!
 - 📝 I'm currently learning more about game development using MonoGame
 - ⭐ I want to become a professional software/game developer some day
 - ⌨️ Some of my favourite languages are C#, Odin, and PowerShell
