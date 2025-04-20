@@ -6,4 +6,5 @@
 - 💬 Pronouns: She/Her
 - 🎂 Birthday: September 10th
 - 🎈 Fun Fact: If I could choose any animal as my future pet, I would pick a fox!
+- 🖥️ I have my own website: https://firee-princess.neocities.org/
 ### "If I yell at my code, maybe I can scare it into running without any errors!"
