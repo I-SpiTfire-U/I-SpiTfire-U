@@ -8,4 +8,6 @@
 - 🎈 Fun Fact: If I could choose any animal as my future pet, I would pick a fox!
 - 🖥️ I have my own website: https://firee-princess.neocities.org/
 ### "If I yell at my code, maybe I can scare it into running without any errors!"
-![Loaves](https://github.com/user-attachments/assets/59a8cd50-ebd6-4a83-b10d-fcdf8931fbcf)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/59a8cd50-ebd6-4a83-b10d-fcdf8931fbcf" alt="Foxes Are Loaves" />
+</p>
