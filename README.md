@@ -11,3 +11,5 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/59a8cd50-ebd6-4a83-b10d-fcdf8931fbcf" alt="Foxes Are Loaves" />
 </p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K11FRJ0X)
