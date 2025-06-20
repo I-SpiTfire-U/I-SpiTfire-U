@@ -7,7 +7,7 @@
 - 💬 Pronouns: She/Her
 - 🎂 Birthday: September 10th
 - 🖥️ I have my own website: https://firee-princess.neocities.org/
-- 🏳️‍🌈 I'm LGBTQIA+ Supportive and am part of the community myself!
+- 🏳️‍🌈 I'm LGBTQIA+ Supportive!
 - 🎈 Fun Fact: If I could choose any animal as my future pet, I would pick a fox!
 ### "If I yell at my code, maybe I can scare it into running without any errors!"
 <p align="center">
