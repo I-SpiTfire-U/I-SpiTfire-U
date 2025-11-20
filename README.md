@@ -1,5 +1,5 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K11FRJ0X)
-[![flag](https://badge.les.bi/88x31/pan/gloss.svg)](https://badge.les.bi/)
+[![flag](https://badge.les.bi/88x31/pan.svg)](https://badge.les.bi/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-SpiTfire-U)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-SpiTfire-U)](https://github.com/anuraghazra/github-readme-stats)
