@@ -4,7 +4,7 @@
 # Hey there! 🦊
 
 ### Welcome to my GitHub profile! I'm SpiTfire, or Alexis, a girl from Canada who drinks way too much tea and enjoys learning new computer-related things! ❤️
-- ⭐ Working towards becoming a professional software/game developer eventually
+- ⭐ Working towards becoming a software/game developer some day
 - ⌨️ Some of my favourite languages are C#, Crystal, and Odin
 - 💬 Pronouns: She/Her
 - 🎂 Birthday: September 10th
