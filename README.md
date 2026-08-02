@@ -8,7 +8,7 @@
 - ⌨️ Some of my favourite languages are C#, Crystal, and Odin
 - 💬 Pronouns: She/Her
 - 🎂 Birthday: September 10th
-- 🖥️ I have my own website!
+- 🖥️ I have my own tiny website!
 - 🏳️‍🌈 I'm LGBTQIA+ Supportive!
 - 🎈 Fun Fact: If I could choose any animal as my future pet, I would pick a fox!
 
