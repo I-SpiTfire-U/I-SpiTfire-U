@@ -14,8 +14,9 @@
 
 ### Contact Me! 💬
 - 💻 Discord: @i_spitfire_u
+- 📷 Instagram: @i_spitfire_u
 - 🦋 Bluesky: @firee-princess.neocities.org
-- 📫 Email: ispitfireu.work@gmail.com
+- 📫 Email: ispitfireu-work@proton.me
 - 📄 Website: https://firee-princess.neocities.org/
 
 ###
