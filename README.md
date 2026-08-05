@@ -3,12 +3,12 @@
 
 # Hey there! 🦊
 
-### Welcome to my GitHub profile! I'm SpiTfire, or Alexis, a girl from Canada who drinks way too much tea and enjoys learning new computer-related things! ❤️
+### Welcome to my GitHub profile! I'm SpiTfire, or Alexis, a girl from Canada who drinks a ridiculous amount of tea and enjoys learning new computer-related things! ❤️
 - ⭐ Working towards becoming a software/game developer some day
 - ⌨️ Some of my favourite languages are C#, Crystal, and Odin
 - 💬 Pronouns: She/Her
 - 🎂 Birthday: September 10th
-- 🖥️ I have my own tiny website!
+- 🖥️ I have a tiny little website!
 - 🏳️‍🌈 I'm LGBTQIA+ Supportive!
 - 🎈 Fun Fact: If I could choose any animal as my future pet, I would pick a fox!
 
