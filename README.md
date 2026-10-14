@@ -24,5 +24,5 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/i-spitfire-u?cardType=level&theme=omni&fontFamily=Noto%20Sans&preferLogin=false&Background=24273A&Text=CAD3F5&Title=F5BDE6&Border=F5BDE6&Ring=363A4F&borderRadius=8)](https://git.io/awesome-stats-card)
 
-### "If I yell at my code, maybe I can scare it into running without any errors!"
+### "If I scream at my code like a fox, maybe I can scare it into running without any errors!"
 ![Foxes Are Loaves](https://github.com/user-attachments/assets/59a8cd50-ebd6-4a83-b10d-fcdf8931fbcf)
