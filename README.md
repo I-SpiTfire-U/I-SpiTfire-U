@@ -3,7 +3,7 @@
 
 # Hey there! 🦊
 
-### Welcome to my GitHub profile! I'm SpiTfire, or Alexis, a girl from Canada who drinks a ridiculous amount of tea and enjoys learning new computer-related things! ❤️
+### Welcome to my GitHub profile! I'm SpiTfire, or Alexis, a woman from Canada who drinks a ridiculous amount of tea and enjoys learning new computer-related things! ❤️
 - ⭐ Working towards becoming a software/game developer some day
 - ⌨️ Some of my favourite languages are C#, Crystal, and Odin
 - 💬 Pronouns: She/Her
