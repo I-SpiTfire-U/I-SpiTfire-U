@@ -9,7 +9,7 @@
 - 💬 Pronouns: She/Her
 - 🎂 Birthday: September 10th
 - 🖥️ I have a tiny little website!
-- 🥟 I love protogens and have a little OC named Dumpling (She's in my profile picture!)
+- 🥟 I love protogens and have a little sona named Dumpling (She's in my profile picture!)
 - 🏳️‍🌈 I'm LGBTQIA+ Supportive!
 - 🎈 Fun Fact: If I could choose any animal as my future pet, I would pick a fox!
 
